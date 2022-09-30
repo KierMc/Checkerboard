@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: red;
+}
+.color1{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+.color2{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
+table{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
